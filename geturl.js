@@ -1,3 +1,4 @@
+//url=window.location.href
 let url="http://localhost:8080/article?id=5e10662d544bb020845974dd&name=sadfsd"
 function getParams(url){
     let result={}
